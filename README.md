@@ -1,2 +1,2 @@
-# DIP-extracting-paragraphs
-A digital image processing assignment on paragraph extraction.
+# Paragraph-Extraction-DIP
+A python program to extract paragraphs under digital image processing.
